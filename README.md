@@ -1,1 +1,0 @@
-# Structural-equation-model-for-metacognitive-skills-and-well-being
