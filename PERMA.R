@@ -7,8 +7,6 @@ library(semPlot)
 library(igraph)
 library(tidySEM)
 
-#import data
-
 #dimensions of each variable
 
 Meta =~ Factor.1 + Factor.2 + Factor.3 + Factor.4
