@@ -10,7 +10,7 @@ library(tidySEM)
 #dimensions of each variable
 
 Meta =~ Factor.1 + Factor.2 + Factor.3 + Factor.4
-Well =~ Well =~ P.total + E.total + R.total + M.total + A.total + Happiness
+Well =~ P.total + E.total + R.total + M.total + A.total + Happiness
 
 #fit SEM for wellbeing (perma) and metacognition
 
